@@ -1,7 +1,0 @@
-<application>
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="PASSWORD" host="localhost" id="b96ce09a-8361-4294-8115-3d34c4bf27c2" port="2222" nameFormat="DESCRIPTIVE" username="stephen" />
-    </configs>
-  </component>
-</application>

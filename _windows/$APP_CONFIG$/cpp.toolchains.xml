@@ -1,8 +1,0 @@
-<application>
-  <component name="CPPToolchains" version="4">
-    <toolchains detectedVersion="5">
-      <toolchain name="Visual Studio" toolSetKind="MSVC" toolSetPath="C:\Program Files (x86)\Microsoft Visual Studio 14.0" debuggerKind="BUNDLED_LLDB" />
-      <toolchain name="WSL" toolSetKind="WSL" toolSetPath="C:\Users\deoge\AppData\Local\Microsoft\WindowsApps\ubuntu.exe" customCMakePath="\usr\bin\cmake" hostId="e6ca0470-6a55-4b53-a675-f27f8e7b4a0b" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
-    </toolchains>
-  </component>
-</application>
