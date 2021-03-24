@@ -1,0 +1,15 @@
+,
+9 10 9
+INT,FLOAT,INVALID,ADDOP,MULTOP,LPAREN,RPAREN,IDENT,SIMICOLON
+ST,IN,LP,RP,IT,FT,AO,MO,ID,SN
+(,),0123456789,*/%,+-,.,ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz_$, \t\n\r,;
+LP,RP,IT,MO,AO,IN,ID,s,SN,IN,INVALID
+a,a,a,a,a,a,a,a,a,IN,INVALID
+a,a,a,a,a,a,a,a,a,a,LPAREN
+a,a,a,a,a,a,a,a,a,a,RPAREN
+a,a,IT,a,a,FT,IN,a,a,IN,INT
+a,a,FT,a,a,IN,IN,a,a,IN,FLOAT
+a,a,a,a,a,a,a,a,a,a,ADDOP
+a,a,a,a,a,a,a,a,a,a,MULTOP
+a,a,IN,a,a,IN,ID,a,a,IN,IDENT
+a,a,a,a,a,a,a,a,a,a,SIMICOLON

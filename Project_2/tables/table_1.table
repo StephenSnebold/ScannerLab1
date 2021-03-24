@@ -1,0 +1,13 @@
+,
+7 8 7
+INT,FLOAT,INVALID,ADDOP,MULTOP,LPAREN,RPAREN
+ST,IN,LP,RP,IT,FT,AO,MO
+(,),0123456789,*/%,+-,., \t\n\r
+LP,RP,IT,MO,AO,IN,s,IN,INVALID
+a,a,a,a,a,a,a,IN,INVALID
+a,a,a,a,a,a,a,a,LPAREN
+a,a,a,a,a,a,a,a,RPAREN
+a,a,IT,a,a,FT,a,a,INT
+a,a,a,a,a,IN,a,a,FLOAT
+a,a,a,a,a,a,a,a,ADDOP
+a,a,a,a,a,a,a,a,MULTOP
